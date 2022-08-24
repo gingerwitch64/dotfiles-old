@@ -1,5 +1,5 @@
 " nola's nvim config
-" forked from aris's nvim config ( found at https://github.com/4tl0renz0/dotfiles/blob/main/init.vim )
+" forked from aris's nvim config ( found at https://github.com/aristonl/dotfiles/blob/main/init.vim )
 
 " vim-plug
 call plug#begin(has('nvim') ? stdpath('data') . '/plugged' : '~/.vim/plugged')
