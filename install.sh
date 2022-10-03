@@ -6,7 +6,7 @@
 echo "Creating directories and copying configs..."
 mkdir ~/.config ~/.config/{alacritty,nvim}
 cp ./alacritty.yml ~/.config/alacritty
-cp ./init.vim ~/.config/init.vim
+cp ./init.vim ~/.config/nvim
 
 echo "Installing vim-plug..."
 
